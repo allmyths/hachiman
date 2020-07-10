@@ -1,5 +1,5 @@
 {
-  "name": "hachiman",
+  "name": "@mythological-alliance/hachiman",
   "version": "0.0.0",
   "description": "Hachiman is a library for rendering interfaces using pure functions and virtual DOM.",
   "main": "./packages/hachiman/index.js",
