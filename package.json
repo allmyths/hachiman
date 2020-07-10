@@ -1,5 +1,5 @@
 {
-  "name": "@mythological-alliance/hachiman",
+  "name": "@allmyths/hachiman",
   "version": "0.0.1",
   "description": "Hachiman is a library for rendering interfaces using pure functions and virtual DOM.",
   "main": "./packages/hachiman/index.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mythological-alliance/hachiman.git"
+    "url": "git+https://github.com/allmyths/hachiman.git"
   },
   "keywords": [
     "hachiman"
@@ -21,9 +21,9 @@
   "author": "Hemerson Vianna <hemerson.lourenco@gmail.com> (https://nerdcalistenico.com.br)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mythological-alliance/hachiman/issues"
+    "url": "https://github.com/allmyths/hachiman/issues"
   },
-  "homepage": "https://github.com/mythological-alliance/hachiman#readme",
+  "homepage": "https://github.com/allmyths/hachiman#readme",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
